@@ -1,0 +1,4 @@
+2025-11-26 19:20:50,897 - ERROR - Upload error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-11-26 22:01:54,853 - ERROR - Upload error: 
+2025-11-26 22:02:55,604 - ERROR - Upload error: APIError: [403]: The caller does not have permission
+2025-11-26 22:06:25,656 - INFO - Upload successful.
